@@ -11,7 +11,7 @@ step 5: locate the "javasourcefile" folder in your extracted zip folder, open th
 
 step 6: go to the "MainActivity" tab in android studio delete everything then copy and paste the code from MainActivity.java into the empty main activity tab in android studio
 
-step 7: locate the replace "put your website link here" with your website url when you see it in this code section below:
+step 7: locate and replace "put your website link here" with your website url when you see it in this code section below:
 
 
    @Override
