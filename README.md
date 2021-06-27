@@ -8,11 +8,11 @@ step1: create an empty project in android studio IDE make sure the minimum SDK i
 
 step2: after your project loads go to android manifest tab, change it to code view and delete everything
 
-step3: use the green "code" button to download the source codes on my gitbub page, select download zip after the download extract and locate "android manifest xml" folder 
+step3: use the green "code" button to download the source codes on my gitbub page, download, extract and locate "android manifest xml" folder or click on the folder on my github page
 
 step 4: open the "AndroidManifest.xml" file copy the contents of the code into the empty andriod manifest tab in android studio
 
-step 5: locate the "javasourcefile" folder in your extracted zip folder, open the "MainActivity.java" file either in any suitable IDE of your chioce
+step 5: locate the "java source file" folder on my github page or in your extracted zip folder, open the "MainActivity.java" file
 
 step 6: go to the "MainActivity" tab in android studio delete everything then copy and paste the code from MainActivity.java into the empty main activity tab in android studio
 
