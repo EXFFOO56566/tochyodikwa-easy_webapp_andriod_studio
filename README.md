@@ -8,7 +8,7 @@ step1: create an empty project in android studio IDE make sure the minimum SDK i
 
 step2: after your project loads go to android manifest tab, change it to code view and delete everything
 
-step3: use the green "code" button to download the source codes on my gitbub page, download, extract and locate "android manifest xml" folder or click on the folder on my github page
+step3: use the green "code" button to download the source codes on my gitbub page, download, extract and locate "android manifest xml" folder or click on the "android manifest xml" folder on my github page
 
 step 4: open the "AndroidManifest.xml" file copy the contents of the code into the empty andriod manifest tab in android studio
 
