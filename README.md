@@ -1,6 +1,9 @@
 # tochyodikwa-easy_webapp_andriod_studio
 
 EASY WAY TO CONVERT YOUR WEBSITE INTO A SIMPLE ANDROID APPLICATION 
+
+Follow the steps below: 
+
 step1: create an empty project on android studio with minimum SDK set to "api level 23 Android 6.0 (marshmellow)"
 
 step2: after your project loads go to android manifest tab, change it to code view and delete everything
