@@ -34,4 +34,6 @@ step 7: locate and replace "put your website link here" with your website url wh
 
 step 8: replace package com.tochy.webapp; which is the first line of code on the MainActivity tab with your own package name
 
+note: make sure to delete the android manifest xml and java source file folder if you want to load the project direclty into android studio
+
 step 9: sign, compile and have fun testing it out
